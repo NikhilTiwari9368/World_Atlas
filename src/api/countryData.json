@@ -1,0 +1,72 @@
+[
+    {
+      "id": 1,
+      "countryName": "Canada",
+      "capital": "Ottawa",
+      "population": 37742154,
+      "interestingFact": "Canada has the longest coastline of any country in the world."
+    },
+    {
+      "id": 2,
+      "countryName": "Brazil",
+      "capital": "Brasília",
+      "population": 211049527,
+      "interestingFact": "The Amazon Rainforest is home to more than 10% of the known species on Earth."
+    },
+    {
+      "id": 3,
+      "countryName": "Japan",
+      "capital": "Tokyo",
+      "population": 126476461,
+      "interestingFact": "Japan has over 6,800 islands."
+    },
+    {
+      "id": 4,
+      "countryName": "Australia",
+      "capital": "Canberra",
+      "population": 25499884,
+      "interestingFact": "Australia is home to more than 60 different wine regions."
+    },
+    {
+      "id": 5,
+      "countryName": "Germany",
+      "capital": "Berlin",
+      "population": 83783942,
+      "interestingFact": "Germany is known for its beer purity law, the Reinheitsgebot, dating back to 1516."
+    },
+    {
+      "id": 6,
+      "countryName": "India",
+      "capital": "New Delhi",
+      "population": 1380004385,
+      "interestingFact": "India has the world's largest postal network, with over 150,000 post offices."
+    },
+    {
+      "id": 7,
+      "countryName": "South Africa",
+      "capital": "Pretoria (administrative), Bloemfontein (judicial), Cape Town (legislative)",
+      "population": 59308690,
+      "interestingFact": "South Africa is the only country to have hosted the World Cup, the Rugby World Cup, and the Cricket World Cup."
+    },
+    {
+      "id": 8,
+      "countryName": "Mexico",
+      "capital": "Mexico City",
+      "population": 128932753,
+      "interestingFact": "Mexico City is built on top of an ancient lake and is sinking at a rate of about 10 inches per year."
+    },
+    {
+      "id": 9,
+      "countryName": "Italy",
+      "capital": "Rome",
+      "population": 60244639,
+      "interestingFact": "Italy has more UNESCO World Heritage Sites than any other country."
+    },
+    {
+      "id": 10,
+      "countryName": "Russia",
+      "capital": "Moscow",
+      "population": 145912025,
+      "interestingFact": "Russia is the largest country in the world, covering more than one-eighth of Earth's inhabited land area."
+    }
+]

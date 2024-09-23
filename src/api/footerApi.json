@@ -1,0 +1,17 @@
+[
+    {
+      "icon": "MdPlace",
+      "title": "Find us",
+      "details": "Indore, Madhya Pradesh"
+    },
+    {
+      "icon": "IoCallSharp",
+      "title": "Call us",
+      "details": "9809178659"
+    },
+    {
+      "icon": "TbMailPlus",
+      "title": "Mail us",
+      "details": "contact@indori.com"
+    }
+]
